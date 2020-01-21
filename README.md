@@ -1,2 +1,2 @@
 # chat-room
-simple chatroom
+a simple chatroom
