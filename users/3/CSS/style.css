@@ -1,0 +1,28 @@
+body {
+  background-color: skyblue;
+}
+h1 {
+  color: white;
+  font-family: verdana;
+  font-size: 300%;
+}
+p  {
+  color: white;
+  font-family: courier;
+  font-size: 200%;
+}
+a  {
+    color:white;
+    font-family: courier;
+    font-size: 160%;
+}
+button {
+  background-color: #008CBA; 
+  border: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
